@@ -1,7 +1,8 @@
 # kapanadze-github-io
-Welcome! This is my personal website
 
+Welcome! This is my personal website
+## intro
 
 ![](https://i.gifer.com/XOsX.gif)
-![](https://i.gifer.com/3OtmD.gif)
+
 
