@@ -1,2 +1,2 @@
 # kapanadze-github-io
-This is my personal website
+Welcome! This is my personal website
